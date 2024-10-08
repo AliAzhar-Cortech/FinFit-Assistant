@@ -22,7 +22,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/finfit-assistant.git
+    git clone https://github.com/Ali-Azhar128/finfit-assistant.git
     cd finfit-assistant
     ```
 
@@ -56,5 +56,5 @@
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
